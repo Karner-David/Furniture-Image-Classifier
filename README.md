@@ -17,3 +17,5 @@ The model is uses a pretrained base with ResNet50V2 to allow for faster converge
 - Loss Function: Categorical Crossentropy
 - Batch Size: 64
 - Epochs: 50
+
+## Results
