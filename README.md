@@ -19,3 +19,6 @@ The model is uses a pretrained base with ResNet50V2 to allow for faster converge
 - Epochs: 50
 
 ## Results
+![training and validation loss plot](resulting_plots/train_val_loss.png)
+
+![training and validation accuracy plot](resulting_plots/train_val_acc.png)
